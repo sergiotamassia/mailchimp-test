@@ -1,0 +1,20 @@
+{
+  "name": "mailchimp-test",
+  "version": "1.0.0",
+  "description": "Integração Mailchimp ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SLTS",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "superagent": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/body-parser": "1.17.1",
+    "@types/express": "4.17.2"
+  }
+}
