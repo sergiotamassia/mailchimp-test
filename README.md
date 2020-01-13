@@ -2,11 +2,15 @@
 
 Mailchimp v3 test in nodeJS to integrate emails to audience.
 
+Project in construction
+
 # Project Setup
 
-Run `git clone https://github.com/xxx/mailchimp-test.git`
+Run `git clone https://github.com/sergiotamassia/mailchimp-test.git`
 
 Run `npm install`
+
+Rename `common/environment - sample.ts` to `environment.ts`
 
 # How to get environment variables from Mailchimp
 
